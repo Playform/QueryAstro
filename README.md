@@ -1,9 +1,9 @@
-# 👉🏻 [Query] —
+# [Query] 👉🏻
 
 This **[`Astro integration`][astro-integration]** allows you to use SQL queries
 inside your components using PRQL.
 
-## 🚀 Installation
+## Installation 🚀
 
 There are two ways to add integrations to your project. Let's try the most
 convenient option first!
